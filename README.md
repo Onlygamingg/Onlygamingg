@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Onlygaming</h1>
 
-<p align="center">
-  Alias: <b>Fallen</b>
-</p>
+<h3 align="center">Alias: Fallen</h3>
 
 <p align="center">
-  I make Roblox stuff and mainly code in Luau.
+  Roblox developer · Luau scripter · still learning
 </p>
 
 ---
@@ -33,16 +31,23 @@
 
 <div align="center">
 
-### 🧠 What I actually use
+### 🧩 Stack
 
-<img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=robloxstudio&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Luau-2C9FFF?style=for-the-badge&logo=lua&logoColor=white&labelColor=111111" />
+<img src="https://img.shields.io/badge/Roblox%20Studio-111111?style=for-the-badge&logo=robloxstudio&logoColor=white&labelColor=white&labelColor=111111" />
 
-<br><br>
+</div>
 
-<img src="https://img.shields.io/badge/Still%20Learning-7B2CFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Game%20Systems-FF4FD8?style=flat-square" />
-<img src="https://img.shields.io/badge/Scripting-00A2FF?style=flat-square" />
+---
+
+<div align="center">
+
+### ⚙️ Tools & Platforms
+
+<img src="https://img.shields.io/badge/Windows%2011-1E9BFF?style=for-the-badge&logo=windows11&logoColor=white&labelColor=111111" />
+<img src="https://img.shields.io/badge/Ubuntu-FF6A00?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=111111" />
+<img src="https://img.shields.io/badge/VS%20Code-3EA6FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=111111" />
+<img src="https://img.shields.io/badge/Cloudflare-FF8A00?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=111111" />
 
 </div>
 
@@ -53,7 +58,7 @@
 ### 🔗 Links
 
 <a href="https://github.com/Onlygamingg">
-  <img src="https://img.shields.io/badge/GitHub-Onlygamingg-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-Onlygamingg-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
