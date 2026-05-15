@@ -34,9 +34,7 @@ Roblox developer · Luau scripter · still learning
 </p>
 
 <p align="center">
-  <b>Luau</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Python (still learning)</b>
+  <sub><b>(still learning)</b></sub>
 </p>
 
 <hr>
