@@ -30,31 +30,21 @@ Roblox developer · Luau scripter · still learning
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=plastic&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox%20Studio-111111?style=plastic&logo=robloxstudio&logoColor=white" />
+  <img src="./assets/badges/luau.svg" height="32" />
+  <img src="./assets/badges/robloxstudio.svg" height="32" />
 </p>
 
 <hr>
 
 <p align="center">
-  <a href="https://www.microsoft.com/windows">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" />
-  </a>
-  <a href="https://ubuntu.com/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
-  </a>
-  <a href="https://www.cloudflare.com">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" />
-  </a>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" />
 </p>
 
 <hr>
 
 <p align="center">
-  <a href="https://github.com/Onlygamingg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
-  </a>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
 </p>
