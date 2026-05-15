@@ -28,14 +28,22 @@ Roblox developer · Luau scripter · still learning
 
 <br>
 
-<p align="center">
-  <a href="https://luau.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua3.svg" height="32" /></a>
-  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="32" /></a>
-</p>
-
-<p align="center">
-  <sub><b>(still learning)</b></sub>
-</p>
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td align="center">
+      <a href="https://luau.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua3.svg" height="32" /></a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="32" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left">
+      <sub><b>(still learning)</b></sub>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
