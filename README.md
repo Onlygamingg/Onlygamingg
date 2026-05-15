@@ -15,8 +15,7 @@ Roblox developer · Luau scripter · still learning
   <tr>
     <td style="vertical-align: top; text-align: left;">
       <ul>
-        <li>🎮 I make Roblox projects</li>
-        <li>🌙 My main programming language is Luau</li>
+        <li>🌙 My main most known programming language is Luau</li>
         <li>🛠️ I am still learning and improving</li>
         <li>💻 I like building scripts, systems, and game features</li>
       </ul>
