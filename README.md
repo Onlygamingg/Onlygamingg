@@ -1,4 +1,8 @@
-<h1 align="center">Hey, I'm Daniel</h1>
+<h1 align="center">Hi, I'm Onlygaming</h1>
+
+<p align="center">
+  Alias: <b>Fallen</b>
+</p>
 
 <p align="center">
   I make Roblox stuff and mainly code in Luau.
