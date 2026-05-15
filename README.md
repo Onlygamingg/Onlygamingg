@@ -2,7 +2,7 @@
 
 # Hi, I'm Onlygaming
 
-### Alias: Fallen
+### Alias: Fallen · TheFallenG · 981Only
 
 Roblox developer · Luau scripter · still learning
 
@@ -21,7 +21,7 @@ Roblox developer · Luau scripter · still learning
       </ul>
     </td>
     <td style="vertical-align: middle;">
-      <img src="./assets/pfp.gif" width="100"/>
+      <img src="https://github.com/Onlygamingg.png" width="100"/>
     </td>
   </tr>
 </table>
