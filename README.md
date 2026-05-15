@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Onlygaming</h1>
+<div align="center">
 
-<h3 align="center">Alias: Fallen</h3>
+# Hi, I'm Onlygaming
 
-<p align="center">
-  Roblox developer · Luau scripter · still learning
-</p>
+### Alias: Fallen
 
----
+Roblox developer · Luau scripter · still learning
 
-<table align="center">
+</div>
+
+<table align="center" border="0" style="border: none;">
   <tr>
-    <th colspan="2">About me</th>
+    <th colspan="2" style="text-align: center;">About me</th>
   </tr>
   <tr>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <ul>
         <li>🎮 I make Roblox projects</li>
         <li>🌙 My main programming language is Luau</li>
@@ -21,48 +21,40 @@
         <li>💻 I like building scripts, systems, and game features</li>
       </ul>
     </td>
-    <td>
-      <img src="https://github.com/Onlygamingg.png" width="120" />
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/Onlygamingg.png" width="100"/>
     </td>
   </tr>
 </table>
 
----
-
-<div align="center">
-
-<h3>🧩 Stack</h3>
-
-<img src="https://img.shields.io/badge/Luau-2C9FFF?style=plastic&logo=lua&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Roblox%20Studio-111111?style=plastic&logo=robloxstudio&logoColor=white" />
-
-</div>
-
 <br>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=plastic&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox%20Studio-111111?style=plastic&logo=robloxstudio&logoColor=white" />
+</p>
 
-<h3>⚙️ Tools & Platforms</h3>
+<hr>
 
-<img src="https://img.shields.io/badge/Windows%2011-0078D4?style=plastic&logo=windows11&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" />
+<p align="center">
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" />
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
+  </a>
+  <a href="https://www.cloudflare.com">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" />
+  </a>
+</p>
 
-</div>
+<hr>
 
-<br>
-
-<div align="center">
-
-<h3>🔗 Links</h3>
-
-<a href="https://github.com/Onlygamingg">
-  <img src="https://img.shields.io/badge/GitHub-Onlygamingg-181717?style=plastic&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Onlygamingg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
+  </a>
+</p>
