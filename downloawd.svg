@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="32" viewBox="0 0 168 32" role="img" aria-label="Roblox Studio">
+  <rect width="168" height="32" rx="16" fill="#050505"></rect>
+
+  <g transform="translate(22 16) rotate(-13)">
+    <rect x="-8.5" y="-8.5" width="17" height="17" rx="2.8" fill="#FFFFFF"></rect>
+    <rect x="-3" y="-3" width="6" height="6" rx="1" fill="#050505"></rect>
+  </g>
+
+  <text x="40" y="21.5" font-family="Verdana, Geneva, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Roblox Studio</text>
+</svg>

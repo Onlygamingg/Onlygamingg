@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" viewBox="0 0 116 32" role="img" aria-label="Luau">
+  <rect width="116" height="32" rx="16" fill="#D7EBFF"></rect>
+
+  <!-- Luau-style icon -->
+  <g transform="translate(21 16)">
+    <circle cx="0" cy="0" r="10.2" fill="#000080"></circle>
+    <circle cx="4.8" cy="-4.7" r="3.1" fill="#FFFFFF"></circle>
+    <circle cx="9.4" cy="-10.2" r="3.3" fill="#000080"></circle>
+    <path d="M-10.5 0
+         A10.5 10.5 0 0 1 0 -10.5
+         A10.5 10.5 0 0 1 10.5 0
+         A10.5 10.5 0 0 1 0 10.5
+         A10.5 10.5 0 0 1 -10.5 0" fill="none" stroke="#8A8A8A" stroke-width="1.7" stroke-dasharray="3.8 3.4" opacity="0.9"></path>
+  </g>
+
+  <text x="42" y="21.5" font-family="Verdana, Geneva, sans-serif" font-size="13" font-weight="700" fill="#071A2C">Luau</text>
+</svg>
