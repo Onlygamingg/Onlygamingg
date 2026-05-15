@@ -21,7 +21,7 @@ Roblox developer · Luau scripter · still learning
       </ul>
     </td>
     <td style="vertical-align: middle;">
-      <img src="https://github.com/Onlygamingg.png" width="100"/>
+      <img src="./assets/pfp.gif" width="100"/>
     </td>
   </tr>
 </table>
@@ -29,8 +29,14 @@ Roblox developer · Luau scripter · still learning
 <br>
 
 <p align="center">
-  <a href="https://luau.org/"><img src="./assets/badges/luau.svg" height="32" /></a>
-  <a href="https://create.roblox.com/"><img src="./assets/badges/robloxstudio.svg" height="32" /></a>
+  <a href="https://luau.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua3.svg" height="32" /></a>
+  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="32" /></a>
+</p>
+
+<p align="center">
+  <b>Luau</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python (still learning)</b>
 </p>
 
 <hr>
@@ -46,4 +52,5 @@ Roblox developer · Luau scripter · still learning
 
 <p align="center">
   <a href="https://github.com/Onlygamingg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" height="32" /></a>
+  <a href="https://discord.com/users/1487081650671325252"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" height="32" /></a>
 </p>
