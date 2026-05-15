@@ -31,34 +31,38 @@
 
 <div align="center">
 
-### 🧩 Stack
+<h3>🧩 Stack</h3>
 
-<img src="https://img.shields.io/badge/Luau-2C9FFF?style=for-the-badge&logo=lua&logoColor=white&labelColor=111111" />
-<img src="https://img.shields.io/badge/Roblox%20Studio-111111?style=for-the-badge&logo=robloxstudio&logoColor=white&labelColor=white&labelColor=111111" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚙️ Tools & Platforms
-
-<img src="https://img.shields.io/badge/Windows%2011-1E9BFF?style=for-the-badge&logo=windows11&logoColor=white&labelColor=111111" />
-<img src="https://img.shields.io/badge/Ubuntu-FF6A00?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=111111" />
-<img src="https://img.shields.io/badge/VS%20Code-3EA6FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=111111" />
-<img src="https://img.shields.io/badge/Cloudflare-FF8A00?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=111111" />
+<img src="https://img.shields.io/badge/Luau-2C9FFF?style=plastic&logo=lua&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Roblox%20Studio-111111?style=plastic&logo=robloxstudio&logoColor=white" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 🔗 Links
+<h3>⚙️ Tools & Platforms</h3>
+
+<img src="https://img.shields.io/badge/Windows%2011-0078D4?style=plastic&logo=windows11&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h3>🔗 Links</h3>
 
 <a href="https://github.com/Onlygamingg">
-  <img src="https://img.shields.io/badge/GitHub-Onlygamingg-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Onlygamingg-181717?style=plastic&logo=github&logoColor=white" />
 </a>
 
 </div>
