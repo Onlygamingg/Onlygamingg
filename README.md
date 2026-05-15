@@ -29,21 +29,21 @@ Roblox developer · Luau scripter · still learning
 <br>
 
 <p align="center">
-  <img src="./assets/badges/luau.svg" height="32" />
-  <img src="./assets/badges/robloxstudio.svg" height="32" />
+  <a href="https://luau.org/"><img src="./assets/badges/luau.svg" height="32" /></a>
+  <a href="https://create.roblox.com/"><img src="./assets/badges/robloxstudio.svg" height="32" /></a>
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" />
+  <a href="https://www.microsoft.com/windows/windows-11"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" height="32" /></a>
+  <a href="https://ubuntu.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" height="32" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" height="32" /></a>
+  <a href="https://www.cloudflare.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" height="32" /></a>
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" />
+  <a href="https://github.com/Onlygamingg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" height="32" /></a>
 </p>
